@@ -1,0 +1,6 @@
+Hm0 = 1.31
+Tp = 5.74
+mainang = 270
+gammajsp = 3.3
+s = 100
+fnyq = 1
